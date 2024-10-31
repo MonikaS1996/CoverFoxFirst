@@ -102,6 +102,7 @@ public class TC_CASE_18991_CoverFox_ValidateBannerCount extends Base {
 
 	@AfterClass
 	public void closeApplicstion() {
+		logger.info("Monika updated");
 		logger.info("closing browser");
 		closeBrowser();
 	}
