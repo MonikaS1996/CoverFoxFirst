@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Waitingg...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on gender button]]>
+    </line>
+    <line>
+      <![CDATA[Click on next button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[throwing error message]]>
+    </line>
+    <line>
+      <![CDATA[handling age dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Tc SuccessFully Completed :  ValidatePincodeErrorMessage]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Waitingg...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on gender button]]>
+    </line>
+    <line>
+      <![CDATA[Click on next button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[throwing error message]]>
+    </line>
+    <line>
+      <![CDATA[handling age dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[enter the pincode]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Tc SuccessFully Completed :  ValidateMobileErrorMessage]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-27T21:29:01 IST" name="Suite" finished-at="2024-10-27T21:29:36 IST" duration-ms="34505">
+    <groups>
+      <group name="MobileNumber">
+        <method signature="TC_CASE_18991_CoverFox_ValidateerroeMessage.ValidateMobileErrorMessage()[pri:0, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" name="ValidateMobileErrorMessage" class="coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage"/>
+      </group> <!-- MobileNumber -->
+    </groups>
+    <test started-at="2024-10-27T21:29:01 IST" name="Test" finished-at="2024-10-27T21:29:36 IST" duration-ms="34505">
+      <class name="coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage">
+        <test-method is-config="true" signature="openAppl()[pri:0, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" started-at="2024-10-27T21:29:01 IST" name="openAppl" finished-at="2024-10-27T21:29:01 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppl -->
+        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" started-at="2024-10-27T21:29:01 IST" name="enterDetails" finished-at="2024-10-27T21:29:17 IST" duration-ms="15761" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[Waitingg...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on gender button]]>
+            </line>
+            <line>
+              <![CDATA[Click on next button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[throwing error message]]>
+            </line>
+            <line>
+              <![CDATA[handling age dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterDetails -->
+        <test-method signature="ValidatePincodeErrorMessage()[pri:-1, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" started-at="2024-10-27T21:29:17 IST" name="ValidatePincodeErrorMessage" finished-at="2024-10-27T21:29:19 IST" duration-ms="1613" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Tc SuccessFully Completed :  ValidatePincodeErrorMessage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidatePincodeErrorMessage -->
+        <test-method is-config="true" signature="closeApplicstion()[pri:0, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" started-at="2024-10-27T21:29:19 IST" name="closeApplicstion" finished-at="2024-10-27T21:29:21 IST" duration-ms="1947" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplicstion -->
+        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" started-at="2024-10-27T21:29:21 IST" name="enterDetails" finished-at="2024-10-27T21:29:33 IST" duration-ms="12362" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[Waitingg...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on gender button]]>
+            </line>
+            <line>
+              <![CDATA[Click on next button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[throwing error message]]>
+            </line>
+            <line>
+              <![CDATA[handling age dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterDetails -->
+        <test-method signature="ValidateMobileErrorMessage()[pri:0, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" started-at="2024-10-27T21:29:33 IST" name="ValidateMobileErrorMessage" finished-at="2024-10-27T21:29:35 IST" duration-ms="1763" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[enter the pincode]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Tc SuccessFully Completed :  ValidateMobileErrorMessage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateMobileErrorMessage -->
+        <test-method is-config="true" signature="closeApplicstion()[pri:0, instance:coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage@3bf7ca37]" started-at="2024-10-27T21:29:35 IST" name="closeApplicstion" finished-at="2024-10-27T21:29:36 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplicstion -->
+      </class> <!-- coverfoxTestMaven.TC_CASE_18991_CoverFox_ValidateerroeMessage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
