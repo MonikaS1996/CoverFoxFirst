@@ -985,3 +985,33 @@
 2024-10-27 21:51:49,311 - CoverFoxLoggerName -INFO - clicking on continue button
 2024-10-27 21:51:49,311 - CoverFoxLoggerName -ERROR - please check details
 2024-10-27 21:51:50,818 - CoverFoxLoggerName -INFO - closing browser
+2024-11-01 14:42:49,307 - CoverFoxLoggerName -INFO - opening application
+2024-11-01 14:42:49,824 - CoverFoxLoggerName -INFO - clicking on gender button
+2024-11-01 14:42:50,900 - CoverFoxLoggerName -INFO - clicking on next button
+2024-11-01 14:42:52,026 - CoverFoxLoggerName -INFO - Clicking on next button without selecting age...
+2024-11-01 14:42:53,074 - CoverFoxLoggerName -INFO - priniting error message
+2024-11-01 14:42:57,756 - CoverFoxLoggerName -INFO - handling age dropdown
+2024-11-01 14:42:57,829 - CoverFoxLoggerName -INFO - clciking on next button
+2024-11-01 14:42:58,844 - CoverFoxLoggerName -WARN - Enter valid pincode number
+2024-11-01 14:42:59,107 - CoverFoxLoggerName -INFO - entering pincode
+2024-11-01 14:42:59,108 - CoverFoxLoggerName -WARN - Enter valid mobile number
+2024-11-01 14:42:59,296 - CoverFoxLoggerName -INFO - entering mobile number
+2024-11-01 14:42:59,376 - CoverFoxLoggerName -INFO - clicking on continue button
+2024-11-01 14:42:59,378 - CoverFoxLoggerName -ERROR - please check details
+2024-11-01 14:43:02,459 - CoverFoxLoggerName -INFO - validation result
+2024-11-01 14:43:02,672 - CoverFoxLoggerName -INFO - Monika updated
+2024-11-01 14:43:02,673 - CoverFoxLoggerName -INFO - closing browser
+2024-11-01 14:43:08,965 - CoverFoxLoggerName -INFO - opening application
+2024-11-01 14:43:09,518 - CoverFoxLoggerName -INFO - clicking on gender button
+2024-11-01 14:43:10,625 - CoverFoxLoggerName -INFO - clicking on next button
+2024-11-01 14:43:11,783 - CoverFoxLoggerName -INFO - Clicking on next button without selecting age...
+2024-11-01 14:43:12,830 - CoverFoxLoggerName -INFO - priniting error message
+2024-11-01 14:43:16,181 - CoverFoxLoggerName -INFO - handling age dropdown
+2024-11-01 14:43:16,277 - CoverFoxLoggerName -INFO - clciking on next button
+2024-11-01 14:43:17,283 - CoverFoxLoggerName -WARN - Enter valid mobile number
+2024-11-01 14:43:17,509 - CoverFoxLoggerName -INFO - entering mobile number
+2024-11-01 14:43:17,592 - CoverFoxLoggerName -INFO - clicking on continue button
+2024-11-01 14:43:17,592 - CoverFoxLoggerName -ERROR - please check details
+2024-11-01 14:43:18,877 - CoverFoxLoggerName -INFO - closing browser
+2024-11-01 14:43:23,914 - CoverFoxLoggerName -INFO - opening application
+2024-11-01 14:43:24,671 - CoverFoxLoggerName -INFO - clicking on gender button
