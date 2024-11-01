@@ -130,6 +130,7 @@ public class TC_CASE_18991_CoverFox_ValidateerroeMessage extends Base {
 	public void closeApplicstion() {
 		logger.info("closing browser");
 		logger.info("updated by tejas gire");
+		logger.info("updated by tejas gire");
 		closeBrowser();
 	}
 }
