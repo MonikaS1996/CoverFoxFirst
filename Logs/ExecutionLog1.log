@@ -1015,3 +1015,362 @@
 2024-11-01 14:43:18,877 [main] INFO CoverFoxLoggerName - closing browser
 2024-11-01 14:43:23,914 [main] INFO CoverFoxLoggerName - opening application
 2024-11-01 14:43:24,671 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:43:44,768 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:43:46,058 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:43:47,269 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:43:48,962 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:43:50,032 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:43:54,707 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:43:54,837 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:43:55,854 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 14:43:56,148 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 14:43:56,149 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 14:43:56,373 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 14:43:56,481 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:43:56,482 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:43:59,567 [main] INFO CoverFoxLoggerName - validation result
+2024-11-03 14:43:59,748 [main] INFO CoverFoxLoggerName - Monika updated
+2024-11-03 14:43:59,748 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:44:04,064 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:44:04,956 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:44:06,202 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:44:07,988 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:44:09,036 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:44:12,365 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:44:12,449 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:44:13,464 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 14:44:13,934 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 14:44:14,072 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:44:14,075 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:44:15,919 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:44:15,920 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:44:15,922 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:44:15,925 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 14:44:15,925 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 14:44:15,926 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 14:44:15,927 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 14:44:15,928 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 14:44:20,293 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:44:21,219 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:44:22,476 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:44:24,113 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:44:25,203 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:44:28,600 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:44:28,682 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:44:29,692 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 14:44:30,154 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 14:44:30,318 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:44:30,319 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:44:31,680 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:44:31,680 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:44:31,680 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:44:31,681 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 14:44:31,681 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 14:44:31,682 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 14:44:31,683 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 14:44:31,683 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 14:53:32,825 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:53:34,158 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:53:36,833 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:53:38,000 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:53:39,065 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:53:44,599 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:53:44,690 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:53:45,692 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 14:53:46,030 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 14:53:46,031 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 14:53:46,335 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 14:53:46,484 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:53:46,484 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:53:49,575 [main] INFO CoverFoxLoggerName - validation result
+2024-11-03 14:53:50,009 [main] INFO CoverFoxLoggerName - Monika updated
+2024-11-03 14:53:50,009 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:53:55,352 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:53:56,634 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:53:58,619 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:54:01,031 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:54:02,095 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:54:05,583 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:54:05,689 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:54:06,718 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 14:54:08,015 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 14:54:08,395 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:54:08,396 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:54:10,817 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:54:10,821 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:54:10,828 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:54:10,830 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 14:54:10,831 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 14:54:10,831 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 14:54:10,832 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 14:54:10,833 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 14:54:16,946 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:54:18,205 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:54:19,430 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:54:21,691 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:54:22,772 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:54:26,669 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:54:26,876 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:54:27,914 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 14:54:28,578 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 14:54:28,853 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:54:28,854 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:54:30,386 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:54:30,387 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:54:30,387 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:54:30,389 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 14:54:30,389 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 14:54:30,390 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 14:54:30,391 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 14:54:30,391 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 14:58:07,441 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:58:08,725 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:58:10,033 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:58:12,622 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:58:13,693 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:58:19,820 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:58:20,087 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:58:21,105 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 14:58:21,990 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 14:58:21,991 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 14:58:22,515 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 14:58:22,774 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:58:22,775 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:58:25,888 [main] INFO CoverFoxLoggerName - validation result
+2024-11-03 14:58:26,103 [main] INFO CoverFoxLoggerName - Monika updated
+2024-11-03 14:58:26,104 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:58:32,850 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 14:58:34,212 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 14:58:35,472 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 14:58:37,606 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 14:58:38,688 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 14:58:42,171 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 14:58:42,294 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 14:58:43,304 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 14:58:43,919 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 14:58:44,117 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 14:58:44,118 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 14:58:45,684 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 14:58:45,685 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:58:45,686 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 14:58:45,687 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 14:58:45,693 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 14:58:45,694 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 14:58:45,695 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 14:58:45,696 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:00:55,934 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:00:56,936 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:00:58,066 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:00:59,755 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:01:00,847 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:01:05,918 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:01:06,041 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:01:07,046 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:01:07,466 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:01:07,469 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:01:07,835 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:01:07,980 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:01:07,980 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:01:11,365 [main] INFO CoverFoxLoggerName - validation result
+2024-11-03 15:01:11,607 [main] INFO CoverFoxLoggerName - Monika updated
+2024-11-03 15:01:11,609 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:01:17,130 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:01:18,382 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:01:19,562 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:01:21,825 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:01:22,929 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:01:26,493 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:01:26,614 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:01:27,625 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:01:28,231 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:01:28,522 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:01:28,523 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:01:30,292 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:01:30,294 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:01:30,294 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:01:30,295 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:01:30,296 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:01:30,297 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:01:30,298 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:01:30,298 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:01:37,203 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:01:38,223 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:01:39,444 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:01:41,141 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:01:42,253 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:01:45,595 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:01:45,689 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:01:46,701 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:01:47,125 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:01:47,292 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:01:47,293 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:01:49,985 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:01:49,987 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:01:49,987 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:01:49,989 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:01:49,989 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:01:49,990 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:01:49,990 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:01:49,991 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:10:21,749 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:10:23,106 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:10:24,373 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:10:26,598 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:10:27,671 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:10:33,379 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:10:33,605 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:10:34,606 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:10:35,105 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:10:35,111 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:10:35,521 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:10:35,721 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:10:35,722 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:10:38,934 [main] INFO CoverFoxLoggerName - validation result
+2024-11-03 15:10:39,201 [main] INFO CoverFoxLoggerName - Monika updated
+2024-11-03 15:10:39,203 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:10:43,010 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:10:46,368 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:10:47,645 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:10:49,825 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:10:50,893 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:10:54,381 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:10:54,577 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:10:55,590 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:10:56,245 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:10:56,496 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:10:56,497 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:10:57,832 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:10:57,832 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:10:57,833 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:10:57,833 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:10:57,842 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:10:57,843 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:10:57,843 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:10:57,845 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:11:01,164 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:11:04,545 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:11:05,794 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:11:08,036 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:11:09,104 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:11:12,678 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:11:12,787 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:11:13,794 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:11:14,989 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:11:15,258 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:11:15,259 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:11:16,705 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:11:16,706 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:11:16,707 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:11:16,707 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:11:16,708 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:11:16,709 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:11:16,709 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:11:16,710 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:16:15,887 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:16:16,667 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:16:17,853 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:16:19,277 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:16:20,388 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:16:25,905 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:16:26,043 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:16:27,054 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:16:27,421 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:16:27,422 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:16:27,752 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:16:27,882 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:16:27,883 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:16:30,960 [main] INFO CoverFoxLoggerName - validation result
+2024-11-03 15:16:31,118 [main] INFO CoverFoxLoggerName - Monika updated
+2024-11-03 15:16:31,120 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:16:34,737 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:16:35,550 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:16:36,750 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:16:38,243 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:16:39,297 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:16:42,632 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:16:42,748 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:16:43,755 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:16:44,214 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:16:44,402 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:16:44,403 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:16:45,858 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:16:45,859 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:16:45,860 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:16:45,860 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:16:45,861 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:16:45,898 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:16:45,899 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:16:45,901 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:16:51,413 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:16:52,462 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:16:53,676 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:16:55,858 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:16:56,926 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:17:00,347 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:17:00,455 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:17:01,465 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:17:02,513 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:17:03,022 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:17:03,023 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:17:04,659 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:17:04,660 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:17:04,660 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:17:04,661 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:17:04,661 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:17:04,662 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:17:04,663 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:17:04,663 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:18:27,469 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:18:32,787 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:18:34,032 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:18:35,169 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:18:36,241 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:18:41,168 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:18:41,263 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:18:42,269 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:18:42,570 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:18:42,571 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:18:43,325 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:18:43,501 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:18:43,501 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:18:46,932 [main] INFO CoverFoxLoggerName - validation result
+2024-11-03 15:18:47,153 [main] INFO CoverFoxLoggerName - Monika updated
+2024-11-03 15:18:47,154 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:18:53,551 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:18:55,006 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:18:56,204 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:18:58,597 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:18:59,664 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:19:03,087 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:19:03,212 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:19:04,217 [main] WARN CoverFoxLoggerName - Enter valid mobile number
+2024-11-03 15:19:04,831 [main] INFO CoverFoxLoggerName - entering mobile number
+2024-11-03 15:19:05,009 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:19:05,010 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:19:06,417 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:19:06,418 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:19:06,419 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:19:06,419 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:19:06,427 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:19:06,428 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:19:06,428 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:19:06,429 [main] INFO CoverFoxLoggerName - Some changes are made......
+2024-11-03 15:19:09,595 [main] INFO CoverFoxLoggerName - opening application
+2024-11-03 15:19:12,727 [main] INFO CoverFoxLoggerName - clicking on gender button
+2024-11-03 15:19:13,997 [main] INFO CoverFoxLoggerName - clicking on next button
+2024-11-03 15:19:16,062 [main] INFO CoverFoxLoggerName - Clicking on next button without selecting age...
+2024-11-03 15:19:17,132 [main] INFO CoverFoxLoggerName - priniting error message
+2024-11-03 15:19:20,512 [main] INFO CoverFoxLoggerName - handling age dropdown
+2024-11-03 15:19:20,621 [main] INFO CoverFoxLoggerName - clciking on next button
+2024-11-03 15:19:21,641 [main] WARN CoverFoxLoggerName - Enter valid pincode number
+2024-11-03 15:19:22,076 [main] INFO CoverFoxLoggerName - entering pincode
+2024-11-03 15:19:22,244 [main] INFO CoverFoxLoggerName - clicking on continue button
+2024-11-03 15:19:22,246 [main] ERROR CoverFoxLoggerName - please check details
+2024-11-03 15:19:23,647 [main] INFO CoverFoxLoggerName - closing browser
+2024-11-03 15:19:23,648 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:19:23,649 [main] INFO CoverFoxLoggerName - updated by tejas gire
+2024-11-03 15:19:23,650 [main] INFO CoverFoxLoggerName - updated by tejas gire at 15.10
+2024-11-03 15:19:23,657 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.13
+2024-11-03 15:19:23,657 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.15
+2024-11-03 15:19:23,661 [main] INFO CoverFoxLoggerName - updated by monika gire at 3.18
+2024-11-03 15:19:23,662 [main] INFO CoverFoxLoggerName - Some changes are made......
