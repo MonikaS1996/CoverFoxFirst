@@ -138,6 +138,7 @@ public class TC_CASE_18991_CoverFox_ValidateerroeMessage extends Base {
 		logger.info("updated by monika gire at 3.15");
 		
 		logger.info("updated by monika gire at 3.18");
+		logger.info("Some changes are made......");
 		closeBrowser();
 	}
 }
